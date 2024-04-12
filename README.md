@@ -10,7 +10,7 @@ php commands:{
     2:var_dump() to show you its type
     3:to set a variable we should use $: like $name= cyrus  -> echo "hello $name" >> hello cyrus
     4:assignments are same as other languages like "=" , ">=" and so. 
-    5: for array we should use ();
+    5: for array we should use [] or ();
     6: continue vs break . break is completely exit the loop. continue is only skip the condition
 
 }
