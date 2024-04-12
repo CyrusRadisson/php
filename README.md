@@ -12,5 +12,6 @@ php commands:{
     4:assignments are same as other languages like "=" , ">=" and so. 
     5: for array we should use [] or ();
     6: continue vs break . break is completely exit the loop. continue is only skip the condition
+    7:for appending
 
 }
