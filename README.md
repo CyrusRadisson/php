@@ -15,6 +15,8 @@ php commands:{
     6: continue vs break . break is completely exit the loop. continue is only skip the condition
     7:for function we should use function NameOfFunc() { your code inside }
     8: for the many items in an array that you wanna process you can use ... before the name and it means all of the items in an array.
+    9: global vs local vs static variable-> you can use global before the variable in function to use a virable outside of function.-> if you use static before a variable in a function it shows you the recent value of the variable.
+    
     
 
 }
